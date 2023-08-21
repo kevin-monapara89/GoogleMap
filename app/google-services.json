@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7959348013",
+    "project_id": "lively-pursuit-396604",
+    "storage_bucket": "lively-pursuit-396604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7959348013:android:659dba18f928192f1009a4",
+        "android_client_info": {
+          "package_name": "com.example.googlemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7959348013-k9mnpv1an9318iq1u4rchton04tlmlt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7nYnbLSRHQ9ucFUGd69L7bpzBq7uP8yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7959348013-k9mnpv1an9318iq1u4rchton04tlmlt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
